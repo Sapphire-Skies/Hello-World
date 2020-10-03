@@ -162,6 +162,10 @@ OCaml or Objective Caml, is a general purpose programming language with an empha
 
 PHP: Hypertext Preprocessor is a server-side scripting language designed for Web development, but also used as a general-purpose programming language. It was originally created by Rasmus Lerdorf in 1994, the PHP reference implementation is now produced by The PHP Group.
 
+- [x] **PL/SQL**
+
+PL/SQL: As we all know that SQL stands for structure query language and its basically not a procedural language but the PL/SQL adds this beautiful feature so that this drawback gets removed.
+
 - [x] **PostScript**
 
 - [x] **PowerShell**
